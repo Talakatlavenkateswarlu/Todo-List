@@ -1,0 +1,79 @@
+ body{
+   background-image: url(back.avif);
+   background-position: center;
+   background-size: cover;
+   
+   
+ }
+ 
+ 
+ #container{
+    width: 400px;
+    margin: 0 auto;
+    text-align:center;  
+ }
+
+
+ from{
+    margin-bottom: 80px;
+    align-items: center;
+    
+    
+    
+ }
+
+ #task{
+    width: 300px;
+    padding: 14px 20px;
+    margin: 14px 0;
+    margin-left: 38px;
+    text-align: center;
+    background-color: rgb(240, 233, 113);
+    color: rgb(26, 27, 27);
+    font-size: 18px;
+    
+    
+   
+ }
+ button {
+   
+    width: 90px;
+    height: 30px;
+    background-color: rgb(92, 12, 231);
+    color: rgb(236, 239, 241);
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    margin-left: 50px;
+
+ }
+
+ ul {
+    list-style: none;
+
+ } 
+ 
+li{
+    background-color: rgb(236, 237, 241);
+    padding: 10px;
+    margin-bottom: 10px;
+    width: center;
+    text-align: center;
+    border-radius: 14px;
+    color: rgb(10, 10, 10);
+    
+    
+}
+
+.done {
+    text-decoration: line-through;
+    
+ }
+
+ li:hover{
+   background-color: rgb(56, 233, 103);
+ }
+
+ h1{
+   color: rgb(178, 227, 19);
+ }
